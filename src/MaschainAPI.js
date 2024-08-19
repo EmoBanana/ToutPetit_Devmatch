@@ -1,6 +1,6 @@
 const API_URL = 'https://service-testnet.maschain.com';
-const CLIENT_ID = '71f5262fecb4000f18f909a94b0b837705be582c61c5281d87cd0cca5eb5d07b';
-const CLIENT_SECRET = 'sk_799a2e7f261e0046cfe7266df5d89ee15f5d6fa05302c216d63cc599982022f7';
+const CLIENT_ID = '';
+const CLIENT_SECRET = '';
 const DEFAULT_FILE = new Blob(['Placeholder NFT'], { type: 'text/plain' }); // Hardcoded file data
 const DEFAULT_NAME = 'KLCC';
 const DEFAULT_DESCRIPTION = 'NFT rewarded for visiting KLCC';
